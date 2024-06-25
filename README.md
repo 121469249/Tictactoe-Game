@@ -1,2 +1,4 @@
 # Tictactoe-Game
 A very simple Tictactoe Game project write in Java. I wrote it when I was a beginner in Java.
+
+Description： It is a Tictactoe game for one or two players by Java. This is a board game. player 1's piece is 1, player 2's piece is 2. 0 means there are no pieces. The chessboard is a nine-palace grid. Two players take turns to choose a position to drop the pieces. When one player’s pieces are three in a row or in a slant, or in a column. That player wins. Or when the chessboard is full, but the winning rule is not triggered. It is a draw. This game has two play modes. One mode is for two players to play. One mode is for one player to play, and the computer acts as the second player. The computer will prevent you from winning the game. When your pieces are two in a row or in a slope, or in a column, the computer will drop a piece at the position where you want to form three in a row or in a slit, or in a column.
